@@ -1,6 +1,7 @@
 body,
 html {
     background-image: url(fundo.jpg);
+    background-attachment: fixed;
 }
 
 #div1 {
@@ -23,7 +24,7 @@ html {
 
 #menuDeGames {
     position: fixed;
-    margin-top: 5%;
+    margin-top: 1%;
     width: 15%;
 }
 
@@ -40,7 +41,7 @@ html {
 }
 
 #texto {
-    margin-top: 5%;
+    margin-top: 1%;
     height: 1080px;
     color: antiquewhite;
 }
@@ -51,4 +52,29 @@ html {
 
 #top {
     height: 90px;
+}
+
+h4 {
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15pt;
+    color: antiquewhite;
+}
+
+/* #mundo-1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    color: antiquewhite;
+} */
+
+h5{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+.negrito{
+    font-weight: bold;
+    text-decoration: underline;
 }
