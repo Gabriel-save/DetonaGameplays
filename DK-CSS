@@ -1,0 +1,80 @@
+body,
+html {
+    background-image: url(fundo.jpg);
+    background-attachment: fixed;
+}
+
+#div1 {
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+#icone {
+    color: antiquewhite;
+    margin-left: 5%;
+}
+
+#div2 {
+    margin-left: 3%;
+}
+
+#titulo {
+    margin-left: 32%;
+}
+
+#menuDeGames {
+    position: fixed;
+    margin-top: 1%;
+    width: 15%;
+}
+
+#central {
+    color: antiquewhite
+}
+
+#botaodisable {
+    background-color: black;
+}
+
+#imagem {
+    margin-bottom: 5%;
+}
+
+#texto {
+    margin-top: 1%;
+    height: 1080px;
+    color: antiquewhite;
+}
+
+#barraLateral {
+    height: 1080px;
+}
+
+#top {
+    height: 90px;
+}
+
+h4 {
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15pt;
+    color: antiquewhite;
+}
+
+/* #mundo-1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    color: antiquewhite;
+} */
+
+h5{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+.negrito{
+    font-weight: bold;
+    text-decoration: underline;
+}
